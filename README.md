@@ -36,7 +36,7 @@ GET OF THE RAW AND STOP STEALING MY README KIDDO
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/Him*** 😊 <br>
-✔ I’m currently Developing a personal website and some FiveM scripts<br>>
+✔ I’m currently Developing a personal website and some FiveM scripts<br>
 ✔ A FiveM Developers for always usable scripts
 ✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
@@ -117,7 +117,6 @@ GET OF THE RAW AND STOP STEALING MY README KIDDO
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & technologies I use...***
 <p align="left">
   
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
