@@ -129,7 +129,8 @@ GET OF THE RAW AND STOP STEALING MY README KIDDO
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code> </p>
   <hr>
 
